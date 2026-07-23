@@ -79,7 +79,8 @@ int main() {
 ```
 # OUTPUT
 <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/f28f93a8-c321-4362-ae93-4b86e9600928" />
-![Uploading image.png…]()
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/d309b4dd-d6cc-4d4d-8dac-9980510b6b2a" />
+
 
 
 # RESULT
